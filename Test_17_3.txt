@@ -1,0 +1,23 @@
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/060_1.ppm 60
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/060_2.ppm 60
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/060_3.ppm 60
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/060_4.ppm 60
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/050_1.ppm 50
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/050_2.ppm 50
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/070_1.ppm 70
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/070_2.ppm 70
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/030_1.ppm 30
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/100_1.ppm 100
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/100_2.ppm 100
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/100_3.ppm 100
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/100_4.ppm 100
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/120_1.ppm 120
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/120_2.ppm 120
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/030_2.ppm 30
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/030_3.ppm 30
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/080_1.ppm 80
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/080_2.ppm 80
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/080_3.ppm 80
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/080_4.ppm 80
+/home/abc-5/Desktop/SagnikAPG/Run1_14_3/testdir_17_3/070_3.ppm 70
+
